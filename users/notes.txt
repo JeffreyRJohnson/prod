@@ -1,0 +1,20 @@
+sudo systemctl unmask mongodb
+sudo service mongodb enable
+sudo service mongodb start
+sudo service mongodb stop
+
+sudo service mongodb status
+
+
+
+
+JS
+React
+Node
+Databases
+
+middleware = pre & post save hooks
+init
+validate
+save 
+remove
